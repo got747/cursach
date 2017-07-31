@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Budila</string>
+    <string name="creat">Creat new</string>
+    <string name="ok">Ok</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="time">Time :</string>
+    <string name="ringtone">Ringtone :</string>
+    <string name="label">label</string>
+    <string name="musUri">android.resource://com.example.goga747.budila/raw/</string>
+    <string name="API_KEY">XXXXXXXXXXXXXXXXXXXXXXXXX</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
